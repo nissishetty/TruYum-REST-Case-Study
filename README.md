@@ -12,6 +12,6 @@ Cart
 2. /cartItems/{userId} (Display cart items for perticular UserId)
 3. /delete/{userId}/{menuItemId} (Delete the cart items)
 
-Check the end points using Postman\
+Check the end points using Postman
 
 Happy Coding!!!

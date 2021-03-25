@@ -1,6 +1,7 @@
 # TruYum-REST-Case-Study
 
 REST API Mappings\
+
 Menu-Items
 1. /menu-items (View all the menu items)
 2. /menu-items/{id} (Search item By ID)

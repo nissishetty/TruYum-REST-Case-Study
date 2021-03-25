@@ -1,6 +1,6 @@
 # TruYum-REST-Case-Study
 
-REST API Mappings\
+REST API Mappings
 
 Menu-Items
 1. /menu-items (View all the menu items)

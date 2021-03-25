@@ -10,3 +10,7 @@ Cart
 1. /addCart/{userId}/{menuItemId} (Add items to cart provides used ID)
 2. /cartItems/{userId} (Display cart items for perticular UserId)
 3. /delete/{userId}/{menuItemId} (Delete the cart items)
+
+Check the end points using Postman\
+
+Happy Coding!!!
